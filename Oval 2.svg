@@ -1,0 +1,37 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="32" height="32" fill="#F2F2F2"/>
+<g id="Mask Group">
+<g id="wp-pusher">
+<rect width="1440" height="1170" transform="translate(-310 -340)" fill="#F5F8FA"/>
+<g id="Panel">
+<g id="Rectangle 7 Copy" filter="url(#filter0_dd_0_1)">
+<rect x="-48" y="-154" width="892" height="795" rx="6" fill="white"/>
+</g>
+<g id="section - basic">
+<g id="basic">
+<g id="1">
+<path id="1_2" d="M19.6394 19.52V21H13.2394V19.52H15.5834V12.776C15.5834 12.5093 15.5914 12.2347 15.6074 11.952L13.9434 13.344C13.8474 13.4187 13.7514 13.4667 13.6554 13.488C13.5647 13.504 13.4767 13.504 13.3914 13.488C13.3114 13.472 13.2394 13.4453 13.1754 13.408C13.1114 13.3653 13.0634 13.32 13.0314 13.272L12.4074 12.416L15.9354 9.416H17.5594V19.52H19.6394Z" fill="#548BC5"/>
+<circle id="Oval 2" cx="16" cy="16" r="15" stroke="#548BC5" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd_0_1" x="-83" y="-174" width="962" height="865" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0490829 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="15"/>
+<feGaussianBlur stdDeviation="17.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.167329 0 0 0 0 0.250381 0 0 0 0 0.306282 0 0 0 0.095505 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_0_1" result="effect2_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_0_1" result="shape"/>
+</filter>
+</defs>
+</svg>
